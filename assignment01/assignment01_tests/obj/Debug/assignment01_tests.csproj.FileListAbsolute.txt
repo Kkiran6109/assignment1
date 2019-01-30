@@ -1,0 +1,12 @@
+C:\Users\DELLS\source\repos\assignment01\assignment01_tests\bin\Debug\assignment01_tests.dll
+C:\Users\DELLS\source\repos\assignment01\assignment01_tests\bin\Debug\assignment01_tests.pdb
+C:\Users\DELLS\source\repos\assignment01\assignment01_tests\bin\Debug\assignment01.exe
+C:\Users\DELLS\source\repos\assignment01\assignment01_tests\bin\Debug\nunit.framework.dll
+C:\Users\DELLS\source\repos\assignment01\assignment01_tests\bin\Debug\assignment01.pdb
+C:\Users\DELLS\source\repos\assignment01\assignment01_tests\bin\Debug\assignment01.exe.config
+C:\Users\DELLS\source\repos\assignment01\assignment01_tests\bin\Debug\nunit.framework.xml
+C:\Users\DELLS\source\repos\assignment01\assignment01_tests\obj\Debug\assignment01_tests.csprojAssemblyReference.cache
+C:\Users\DELLS\source\repos\assignment01\assignment01_tests\obj\Debug\assignment01_tests.csproj.CoreCompileInputs.cache
+C:\Users\DELLS\source\repos\assignment01\assignment01_tests\obj\Debug\assignment01_tests.csproj.CopyComplete
+C:\Users\DELLS\source\repos\assignment01\assignment01_tests\obj\Debug\assignment01_tests.dll
+C:\Users\DELLS\source\repos\assignment01\assignment01_tests\obj\Debug\assignment01_tests.pdb
